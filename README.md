@@ -24,7 +24,7 @@ Keras with Tensorflow 1 as backend
 3. Run model_code.py
 ```
 # Citation
-If using the concept or code, kindly cite the paper as: S. Mohla, S. Pande, B. Banerjee, and S. Chaudhuri. Dimensionality reduction using 3d residual autoencoder for hyperspectral image classification. In The IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2020.
+If using the concept or code, kindly cite the paper as: S. Pande, B. Banerjee. Dimensionality reduction using 3d residual autoencoder for hyperspectral image classification. In The IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2020.
 
 You can also use the bibtex as:
 ```
